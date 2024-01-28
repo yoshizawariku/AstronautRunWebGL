@@ -1,3 +1,4 @@
 https://yoshizawariku.github.io/AstronautRunWebGL/
 
-から遊べます。
+から遊べます。モバイルデバイスでは動作しません。
+
